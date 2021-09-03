@@ -12,7 +12,7 @@ import android.widget.TextView;
 import java.util.Locale;
 
 public class StopwatchActivity extends AppCompatActivity {
-//  For testing commits
+// For testing commits
 
     private int seconds = 0;
     private boolean running;
